@@ -1,6 +1,6 @@
 # Animations
 
-Repository of files used to create YouTube videos animations. All the animations are created using [ManimCE](!https://github.com/ManimCommunity/manim/).
+Repository of files used to create YouTube videos animations. All the animations are created using [ManimCE](https://github.com/ManimCommunity/manim/).
 
 
 
