@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    id="Calque_1"
+    sodipodi:docname="Danger.svg"
+    xml:space="preserve"
+    viewBox="0 0 141.037 124.15"
+    version="1.1"
+    inkscape:version="0.48.4 r9939"
+  ><title
+      id="title2996"
+    >Panneau Danger</title
+  ><sodipodi:namedview
+      id="namedview15"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      guidetolerance="10"
+      pagecolor="#ffffff"
+      gridtolerance="10"
+      inkscape:window-maximized="0"
+      inkscape:zoom="1.9009263"
+      objecttolerance="10"
+      borderopacity="1"
+      inkscape:current-layer="Calque_1"
+      inkscape:cx="70.518501"
+      inkscape:cy="62.075001"
+      inkscape:window-y="313"
+      inkscape:window-x="842"
+      inkscape:window-width="933"
+      showgrid="false"
+      inkscape:pageopacity="0"
+      inkscape:window-height="663"
+  />
+<g
+      id="g3"
+    >
+	<path
+        id="path5"
+        d="m133.56 124.15c-0.006-0.001-0.012-0.001-0.02 0h-126.04c-2.68 0-5.155-1.43-6.495-3.75s-1.34-5.18 0-7.5l63.018-109.15c1.34-2.32 3.816-3.75 6.496-3.75s5.155 1.43 6.495 3.75l62.764 108.71c0.808 1.197 1.279 2.64 1.279 4.192 0 4.14-3.36 7.5-7.5 7.5z"
+        fill="#222221"
+    />
+	<path
+        id="path7"
+        d="m133.56 122.15h-0.02-126.04c-1.965 0-3.781-1.048-4.763-2.75s-0.982-3.798 0-5.5l63.019-109.15c0.982-1.702 2.798-2.75 4.763-2.75s3.78 1.048 4.763 2.75l62.803 108.78c0.614 0.887 0.973 1.964 0.973 3.124 0.01 3.04-2.45 5.5-5.49 5.5z"
+        fill="#FFFFFF"
+    />
+	<polygon
+        id="polygon9"
+        points="70.519 7.5 102.03 62.075 133.54 116.65 70.519 116.65 7.5 116.65 39.009 62.075"
+        fill="#F2CB13"
+    />
+	<path
+        id="path11"
+        d="m133.56 119.65c-0.006-0.001-0.014-0.001-0.02 0h-126.04c-1.072 0-2.062-0.572-2.598-1.5s-0.536-2.071 0-3l63.019-109.15c0.535-0.928 1.525-1.5 2.598-1.5s2.063 0.572 2.598 1.5l62.862 108.88c0.363 0.496 0.578 1.108 0.578 1.771 0 1.66-1.35 3-3 3zm-120.86-6h115.64l-57.821-100.15-57.823 100.15z"
+        fill="#222221"
+    />
+	<path
+        id="path13"
+        d="m70.749 91.65c-4.694 0-8.5 3.806-8.5 8.5s3.806 8.5 8.5 8.5c4.693 0 8.5-3.806 8.5-8.5s-3.807-8.5-8.5-8.5zm-5-13c0 2.761 2.239 5 5 5 2.76 0 5-2.239 5-5l2.914-37.896c0.05-0.362 0.086-0.728 0.086-1.104 0-4.418-3.582-8-8-8-4.419 0-8 3.582-8 8 0 0.375 0.035 0.742 0.085 1.104l2.915 37.896z"
+        fill="#222221"
+    />
+</g
+  >
+<metadata
+    ><rdf:RDF
+      ><cc:Work
+        ><dc:format
+          >image/svg+xml</dc:format
+        ><dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        /><cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        /><dc:publisher
+          ><cc:Agent
+              rdf:about="http://openclipart.org/"
+            ><dc:title
+              >Openclipart</dc:title
+            ></cc:Agent
+          ></dc:publisher
+        ></cc:Work
+      ><cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        ><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        /></cc:License
+      ></rdf:RDF
+    ></metadata
+  ></svg
+>
